@@ -1,0 +1,9 @@
+bot : Hi There! I am a medical chatbot. You can begin conversation by typing in a message and pressing enter.
+user : i am having headache from 15 days
+bot : - if you are having headache from so many days so you have get the consultant from the doctor because if can be dangerous to your health. for now i will suggest you some tips so you can cure yourself. 1. please take some rest. 2. please drink water as much as you can it will help you to cure yourself from headache . 3. Eat cucumber it have 95% of water.
+user :  can you suggest me a doctor for fever
+bot : - You can go to this link where you will find all the best doctors for fever . https://www.maxhealthcare.in/symptom/india/fever-doctors-in-india
+user : can you book my appointment
+bot : - yes please state time and doctor's name in the following format; 'Patient Name: Date: Doctor: Hospital:'
+user : satyam:22:anil:jeevan
+bot : - yes you can go to our website and book your appointment with the Doctor.
